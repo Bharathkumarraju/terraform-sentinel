@@ -1,2 +1,1 @@
-# terraform-sentinel
-terraform-sentinel
+# S3-sentinel-lab
